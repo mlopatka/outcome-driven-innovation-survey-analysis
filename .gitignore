@@ -1,0 +1,5 @@
+.idea/
+.DS_Store
+*.pyc
+market-segmentation_files/
+.ipynb_checkpoints/
